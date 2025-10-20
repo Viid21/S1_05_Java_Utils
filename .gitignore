@@ -5,6 +5,7 @@ out/
 *.idea
 .gitignore
 S1_05_Java_Utils.iml
+*.class
 
 ### Eclipse ###
 .apt_generated
