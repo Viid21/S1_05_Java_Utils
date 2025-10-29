@@ -1,6 +1,6 @@
 # 🧑‍💻 Task S1.05. Java Utils
 **Author:** David Rey  
-**Corrected by:** 
+**Corrected by:** Lois González (pantalois)
 
 ## 📄 Description  
 This project focuses on **file and directory handling in Java**, including listing directories, recursive traversal, file metadata, reading/writing text files, and object serialization. The exercises are organized by difficulty level.
@@ -42,7 +42,7 @@ java src/level1/ex2/Main.java
 **Execution:**  
 ```bash
 javac src/level1/ex3/*.java
-java src/level1/ex2/Main.java
+java src/level1/ex3/Main.java
 ```
 
 ---
@@ -53,8 +53,8 @@ java src/level1/ex2/Main.java
 
 **Execution:**  
 ```bash
-javac src/level1/ex4/*.java
-java src/level1/ex2/Main.java
+javac src/level1/ex5/*.java
+java src/level1/ex5/Main.java
 ```
 
 ---
