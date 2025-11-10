@@ -1,4 +1,4 @@
-package level1.ex4;
+package level1.ex5;
 
 public class Menus {
     public static int mainMenu() {
